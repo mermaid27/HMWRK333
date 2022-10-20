@@ -1,0 +1,106 @@
+.div1 {
+    background-color: blue;
+    width: 400px;
+    height: 200px;
+    position: relative;
+}
+.div2 {
+    background-color: blueviolet;
+    width: 200px;
+    height: 100px;
+    position:absolute; 
+    margin-top: 50px;
+    margin-left: 80px;
+}
+.header {
+    position: fixed;
+}
+.div-flex1 {
+    display:flex;
+    justify-content: space-between; 
+    align-items: center;
+    margin-top: 30px;
+    margin-right: 50px;
+    margin-bottom: 100px;
+    margin-left: 50px;
+
+}
+.ul-flex {
+    display:flex;
+     
+}
+.portf {
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.blog {
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.div-flex2 {
+    display:flex;
+}
+.div-text1 {
+    width: 400px;
+    height: 100px;
+}
+.div-text2 {
+    width: 400px;
+    height: 100px;
+}
+.div-imgpair {
+    width: 600;
+    height: 300;
+}
+.div-container {
+    width: 1100px; 
+    margin: auto;    
+}
+.div-text {
+    width: 713px;
+    margin: auto;
+    text-align: center;
+}
+.row-flex {
+    display: flex;
+    justify-content: space-between;
+    width: 1100px;
+    margin: auto;
+}
+
+
+.div-child1 {
+    width: 300px;
+    height: 400px;
+    background-color: yellowgreen ;
+}
+.div-child2 {
+    width: 300px;
+    height: 400px;
+    background-color: aqua;
+    
+}
+.div-child3 {
+    width: 300px;
+    height: 400px;
+    background-color: purple ;
+}
+.div-child4 {
+    width: 300px;
+    height: 400px;
+    background-color: rgb(9, 87, 32) ;
+}
+.div-child5 {
+    width: 300px;
+    height: 400px;
+    background-color:brown; 
+    
+}
+.div-child6 {
+    width: 300px;
+    height: 400px;
+    background-color: royalblue ;
+}
+.size {
+    margin-bottom: 85px;
+}
